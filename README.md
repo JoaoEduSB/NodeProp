@@ -7,7 +7,7 @@
 ## Tecnologias
 
 - HTML
-- CSS
+- CSS responsivo
 - Git e Github
 
 ## Contato
